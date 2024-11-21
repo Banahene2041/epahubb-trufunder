@@ -1,0 +1,7 @@
+export { default as Landing } from "./Landing"
+export { default as ClientArea } from "./ClientArea"
+export { default as Faqs } from "./Faqs"
+export { default as AffiliatePartner } from "./AffiliatePartner"
+export { default as ContactUs } from "./ContactUs"
+export { default as Error } from "./Error"
+export { default as HomeLayout } from "./HomeLayout"
