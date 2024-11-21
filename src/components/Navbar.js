@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <header
-      className='w-full h-[6rem] flex items-center justify-center bg-[#FFFFFF]'
+      className='w-full h-[6rem] flex items-center justify-center bg-[#FFFFFF] fixed top-0 right-0 left-0 z-50'
       style={{
         background: "linear-gradient(to right, #2F2F2F 40%, #168565, #00D094)",
       }}

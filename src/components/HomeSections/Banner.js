@@ -5,7 +5,7 @@ import "@splidejs/splide/dist/css/splide.min.css"
 
 const Banner = () => {
   return (
-    <section className='h-[62rem] flex justify-between w-full bg-[#0E221D] text-white relative'>
+    <section className='h-[62rem] mt-[6rem] flex justify-between w-full bg-[#0E221D] text-white relative'>
       <div className='w-[40%] px-[7%]'>
         <h2 className='text-[33px] mt-[14rem] text-[#00D094] font-semibold'>
           TruFunder
