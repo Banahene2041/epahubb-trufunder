@@ -3,4 +3,13 @@ export const assets = {
   banner_image: require("./images/epahubb-trufunder-banner-image.jpeg"),
   arrow_slight: require("./images/arrow-slight (2).png"),
   banner_graph_image: require("./images/banner-graph.png"),
+  instagram_logo: require("./images/trufunder-instagram-logo.png"),
+  twitter_logo: require("./images/trufunder-twitter-logo.png"),
+  youtube_logo: require("./images/trufunder-youtube-logo.png"),
+  telegram_logo: require("./images/trufunder-telegram-logo.png"),
+  mop_logo: require("./images/trufunder-mop-logo.png"),
+  arrow_download: require("./images/arrow-download.png"),
+  arrow_slight_down: require("./images/arrow-slight-down.png"),
+  hero_bull_image: require("./images/epahubb-trufunder-hero-bull-image.png"),
+  hero_cheetar_image: require("./images/epahubb-trufunder-hero-cheetar-image.png"),
 }
